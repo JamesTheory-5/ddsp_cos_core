@@ -1,8 +1,3 @@
-# ddsp_cos_core
-
-Below is the **completed specification** for `ddsp_cos_osc_core` **followed by the full standalone Python module**, exactly matching your GDSP/JAX/DDSP requirements.
-
----
 
 # ✅ **DDSP COSINE OSCILLATOR MODULE SPEC**
 
